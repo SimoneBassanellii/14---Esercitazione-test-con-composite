@@ -9,7 +9,7 @@ namespace _14___Esercitazione_test_con_composite
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            
         }
     }
 }
